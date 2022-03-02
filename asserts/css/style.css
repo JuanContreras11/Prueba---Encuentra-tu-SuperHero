@@ -1,0 +1,34 @@
+body{
+    background: #EB5757;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #000000, #EB5757); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     
+    
+    
+    
+    
+}
+
+.navbar{
+    
+    height: 5em;
+}
+
+h1,p,label{
+    color: rgb(40, 177, 6);
+}
+
+.card{
+    background-color:rgb(34, 31, 31);
+}
+
+.card-title{
+    color:white;
+}
+
+.card-text{
+    color:white;
+}
+
+
+
