@@ -10,7 +10,7 @@ $(document).ready(function () {
 
     $.ajax({
       type: "GET",
-      url: "https://superheroapi.com/api.php/4905856019427443/" + valueInput,
+      url: "https://superheroapi.com/api.php/24718011774480450/" + valueInput,
       success: function (data) {
 
         let Inteligencia = data.powerstats.intelligence
